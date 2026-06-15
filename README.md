@@ -11,7 +11,7 @@
 <body>
     <div class="container">
         <div class="Mainprompt">
-            <img class="image" src="/Users/melis/Downloads/images/imageneed1.jpg"></img>
+            <img class="image" src="imageneed1.jpg"></img>
             <h1 class="hh" id="name">Hey beautiful! Happy Half Bday :D</h1>
             <p class="pp" id="question">will you come to disneyland with me?</p>
             <div class="buttons">
@@ -25,7 +25,7 @@
                 <p>YAY! pick any date u will be free i cant wait
         </div>
     </div>
-    <script src="/Users/melis/Downloads/code/script.js "></script>
+    <script src="script.js "></script>
 </body>
 
 </html>
