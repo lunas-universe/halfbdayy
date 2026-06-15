@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Valentine's Proposal</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="Mainprompt">
+            <img class="image" src="/Users/melis/Downloads/images/imageneed1.jpg"></img>
+            <h1 class="hh" id="name">Hey beautiful! Happy Half Bday :D</h1>
+            <p class="pp" id="question">will you come to disneyland with me?</p>
+            <div class="buttons">
+                <button id="no-button" onclick="showMessage('No')">No</button>
+                <button onclick="showMessage('Yes')" id="yesButton">Yes</button>
+            </div>
+            <div class="hidden-message" id="no-message">
+                <p>Nice try, but you can't escape that easily!</p>
+            </div>
+            <div class="hidden-message" id="yes-message">
+                <p>YAY! pick any date u will be free i cant wait
+        </div>
+    </div>
+    <script src="/Users/melis/Downloads/code/script.js "></script>
+</body>
+
+</html>
